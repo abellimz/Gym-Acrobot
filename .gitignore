@@ -82,3 +82,4 @@ fabric.properties
 .idea/sonarlint
 
 .idea/inspectionProfiles
+.idea/*
